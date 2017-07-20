@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name"> ನನ್ನ ಹವಾಮಾನ </string>
+    <string name="string_app_dev_name">ಶರಣು ಬಳ್ಳುoಡಗಿ</string>
+    <string name="string_about">ನನ್ನ ಹವಾಮಾನ ಅಪ್ಲಿಕೇಶನನ್ನು ಅಭಿವೃದ್ಧಿ ಮತ್ತು ನಿರ್ವಹಿಸುತ್ತಿರುವರು %s</string>
+    <string name="action_search">ಹುಡುಕು</string>
+    <string name="action_refresh">ರಿಫ್ರೆಶ್</string>
+    <string name="action_settings">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+    <string name="action_about">ನಮ್ಮ ಬಗ್ಗೆ</string>
+
+    <string name="action_lineChart">ರೇಖಾಚಿತ್ರ</string>
+    <string name="action_BarChart">ಬಾರಚಿತ್ರ್</string>
+
+    <string name="today">ಇಂದು</string>
+    <string name="tomorrow">ನಾಳೆ</string>
+    <string name="later">ನಂತರ</string>
+
+    <string name="wind">ಗಾಳಿ</string>
+    <string name="pressure">ಒತ್ತಡ</string>
+    <string name="humidity">ಆರ್ದ್ರತೆ</string>
+    <string name="sunrise">ಸೂರ್ಯೋದಯ</string>
+    <string name="sunset">ಸೂರ್ಯಾಸ್ತ</string>
+
+    <string name="last_update">ಕೊನೆಯ ನವೀಕರಣ:\n%s</string>
+    <string name="last_update_widget">\nಕೊನೆಯ ನವೀಕರಣ: %s</string>
+
+    <string name="search_title">ನಗರ ಹುಡುಕಿ</string>
+
+    <string name="downloading_data">ನಿಮ್ಮ ಡೇಟಾ ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ ...</string>
+    <string name="getting_location">ನಿಮ್ಮ ಸ್ಥಾನ ಹುಡುಕಲಾಗುತ್ತಿದೆ </string>
+
+    <string name="error_dateFormat">ದಿನಾಂಕ ಸ್ವರೂಪ ದೋಷ</string>
+
+    <string name="setting_dateFormat">ದಿನಾಂಕ ಸ್ವರೂಪ</string>
+    <string name="setting_dateFormatCustom">ಕಸ್ಟಮ್ ದಿನಾಂಕ ಸ್ವರೂಪ</string>
+    <string name="setting_dateFormatCustom_summary">ಕಸ್ಟಮ್ ದಿನಾಂಕ ಸ್ವರೂಪ ಒದಗಿಸಿ ಬಳಸಲಾಗುತ್ತದೆ</string>
+    <string name="setting_lengthUnits">ಉದ್ದ ಘಟಕಗಳು</string>
+    <string name="setting_languages">ಭಾಷೆಗಳು</string>
+    <string name="setting_speedUnits">ಸ್ಪೀಡ್ ಘಟಕಗಳು</string>
+    <string name="setting_tempUnits">ತಾಪಮಾನ ಘಟಕಗಳು</string>
+    <string name="setting_showTempAsInteger">ತಾಪಮಾನವನ್ನು ಪೂರ್ಣಾಂಕವಾಗಿ ತೋರಿಸಿ</string>
+    <string name="setting_pressureUnits">ಒತ್ತಡ ಘಟಕಗಳು</string>
+    <string name="setting_theme">ಥೀಮ್</string>
+
+    <string name="setting_differentiateDaysByTint">ದಿನಗಳನ್ನು ಬೇರೆ ಬಣ್ಣದಿಂದ ಬೇರ್ಪಡಿಸಿ  </string>
+    <string name="setting_refreshInterval">ಹಿನ್ನೆಲೆ ರಿಫ್ರೆಶ್ ಮಧ್ಯಂತರ</string>
+    <string name="setting_unit_mps">ಸೆಕೆಂಡಿಗೆ ಮೀಟರ್ (m/s)</string>
+    <string name="setting_unit_kph">ಪ್ರತಿ ಗಂಟೆಗೆ ಕಿಲೋಮೀಟರ್ (kph)</string>
+    <string name="setting_unit_mph">ಗಂಟೆಗೆ ಮೈಲುಗಳು (mph)</string>
+    <string name="setting_unit_bft">ಬ್ಯುಫೋರ್ಟ್ ಗಾಳಿ ಪ್ರಮಾಣ(bft)</string>
+    <string name="setting_wind_direction_format">ಗಾಳಿಯ ದಿಕ್ಕಿನ ರೂಪ</string>
+    <string name="settings_none">ಯಾವದು ಇಲ್ಲ </string>
+    <string name="setting_apiKey">API ಕೀ</string>
+    <string name="setting_apiKey_summary">OpenWeatherMap ವಿನಂತಿಯನ್ನುಗಳಿಗಾಗಿ  ಕಸ್ಟಮ್ API ಕೀ</string>
+
+    <string name="setting_unit_Celsuis">ಸೆಲ್ಸಿಯಸ್</string>
+    <string name="setting_unit_Fahrenheit">ಫ್ಯಾರನ್ಹೀಟ್</string>
+    <string name="setting_unit_Kelvin">ಕೆಲ್ವಿನ್</string>
+
+    <string name="setting_unit_mm">ಮಿಲಿಮೀಟರ್ (mm)</string>
+    <string name="setting_unit_cm">ಸೆಂಟಿಮೀಟರ್ಸ್  (cm)</string>
+    <string name="setting_unit_in">ಇಂಚುಗಳು (in)</string>
+
+
+    <string name="setting_unit_hpa">hPa</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+
+    <string name="speed_unit_mps">m/s</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">mph</string>
+
+    <string name="wind_direction_format_none">ಯಾವುದೇ ಸೂಚನೆ ಇಲ್ಲ </string>
+    <string name="wind_direction_format_arrows">ಬಾಣಗಳು</string>
+    <string name="wind_direction_format_abbreviations">ಸಂಕ್ಷೇಪಣಗಳು</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+
+    <!--<string name="setting_theme_fresh">Fresh</string>-->
+    <!--<string name="setting_theme_classic">Classic</string>-->
+    <string name="setting_theme_dark">Fresh</string>
+    <string name="setting_theme_classic_dark">Classic Dark</string>
+
+    <string name="dialog_ok">ಸರಿ</string>
+    <string name="dialog_cancel">ರದ್ದು</string>
+    <string name="string_day">ದಿನಗಳು</string>
+
+    <string name="msg_err_parsing_json">Error parsing JSON.</string>
+    <string name="msg_connection_problem">ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕದಲ್ಲಿ  ಸಮಸ್ಯೆ ಇದೆ.</string>
+    <string name="msg_connection_not_available">ಸಂಪರ್ಕ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="msg_city_not_found">ಸೂಚಿಸಿದ ನಗರ ದೊರೆಯಲಿಲ್ಲ.</string>
+
+    <!--<string name="weather_sunny" translatable="true">&#xf00d;</string>-->
+    <!--<string name="weather_clear_night" translatable="true">&#xf02e;</string>-->
+    <!--<string name="weather_foggy" translatable="true">&#xf014;</string>-->
+    <!--<string name="weather_cloudy" translatable="true">&#xf013;</string>-->
+    <!--<string name="weather_rainy" translatable="true">&#xf019;</string>-->
+    <!--<string name="weather_snowy" translatable="true">&#xf01b;</string>-->
+    <!--<string name="weather_thunder" translatable="true">&#xf01e;</string>-->
+    <!--<string name="weather_drizzle" translatable="true">&#xf01c;</string>-->
+
+    <string name="wind_direction_north">N</string>
+    <string name="wind_direction_north_north_east">NNE</string>
+    <string name="wind_direction_north_east">NE</string>
+    <string name="wind_direction_east_north_east">ENE</string>
+    <string name="wind_direction_east">E</string>
+    <string name="wind_direction_east_south_east">ESE</string>
+    <string name="wind_direction_south_east">SE</string>
+    <string name="wind_direction_south_south_east">SSE</string>
+    <string name="wind_direction_south">S</string>
+    <string name="wind_direction_south_south_west">SSW</string>
+    <string name="wind_direction_south_west">SW</string>
+    <string name="wind_direction_west_south_west">WSW</string>
+    <string name="wind_direction_west">W</string>
+    <string name="wind_direction_west_north_west">WNW</string>
+    <string name="wind_direction_north_west">NW</string>
+    <string name="wind_direction_north_north_west">NNW</string>
+    <string name="msg_too_many_requests">ಹಲವಾರು ವಿನಂತಿಗಳನ್ನು. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.</string>
+
+    <!-- 1: temperature; 2: unit -->
+    <string name="dash_clock_status">%1$s°%2$s</string>
+    <!-- 1: temperature; 2: unit; 3: weather description -->
+    <string name="dash_clock_expanded_title">%1$s°%2$s - %3$s</string>
+    <!-- 1: city; 2: country; 3: wind; 4: speed units; 5: pressure; 6: pressure units; 7: humidity -->
+    <string name="dash_clock_expanded_body">%1$s, %2$s\nವಿಂಡ್: %3$s %4$s\nಒತ್ತಡ: %5$s %6$s\nಆರ್ದ್ರತೆ: %7$s %%\n</string>
+    <string name="settings_title_units">ಘಟಕಗಳು</string>
+    <string name="settings_title_display">ಪ್ರದರ್ಶನ</string>
+    <string name="settings_title_data">ಡೇಟಾ</string>
+    <string name="setting_displayDecimalZeroes">ದಶಮಾಂಶ ಸೊನ್ನೆಗಳನ್ನು  ತೋರಿಸಿ</string>
+    <string name="settings_title_location">ಸ್ಥಳ</string>
+    <string name="setting_update_location_automatically">ಹಿನ್ನೆಲೆಯಲ್ಲಿ ನಿಮ್ಮ  ಸ್ಥಳವನ್ನು  ನವೀಕರಿಸಿ </string>
+
+    <string name="location_settings">ಸ್ಥಳದ ಬಗ್ಗೆ ಸೆಟ್ಟಿಂಗ್ಗ</string>
+    <string name="location_settings_message">ಸ್ಥಳ ಸಕ್ರಿಯಗೊಳಿಸಿಲ್ಲ. ನೀವು ಸೆಟ್ಟಿಂಗ್ಗಳ ಮೆನು ಹೋಗಲು ಬಯಸುತ್ತೀರಾ?</string>
+    <string name="location_settings_button">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+    <string name="action_weather_map">ಹವಾಮಾನ ನಕ್ಷೆ</string>
+    <string name="rain">ಮಳೆ</string>
+    <string name="temperature">ತಾಪಮಾನ</string>
+    <string name="action_graphs">ಗ್ರಾಫ್ಗಳು</string>
+    <string name="setting_auto_detect_location">ಸ್ಥಳ ಪತ್ತೆ</string>
+
+    <string name="invalid_api_key">API ಕೀ ತಪ್ಪಿದೆ, ದಯವಿಟ್ಟು ನಿಮ್ಮ API ಕೀ ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="today_string">ಇಂದು</string>
+
+    <string name="scattered_clouds_string">ಅಲ್ಲಲ್ಲಿ ಮೋಡಗಳು</string>
+    <string name="clear_sky_string">ಶುಭ್ರ ಆಕಾಶ</string>
+    <string name="light_rain_string">ತುಂತುರು ಮಳೆ</string>
+    <string name="overcast_clouds_string">ಕತ್ತಲಿನಿಂದ ಮೋಡಗಳು</string>
+    <string name="broken_clouds_string">ಮುರಿದ ಮೋಡಗಳು</string>
+    <string name="few_clouds_string">ಕೆಲವು ಮೋಡಗಳು</string>
+    <string name="moderate_rain">ಮಧ್ಯಮ ಮಳೆ</string>
+
+    <string name="setting_lang_english">ಆಂಗ್ಲ ಭಾಷೆ (en)</string>
+    <string name="setting_lang_kannada">ಕನ್ನಡ (kn)</string>
+    <string name="setting_lang_telugu">ತೆಲುಗು (te)</string>
+</resources>
